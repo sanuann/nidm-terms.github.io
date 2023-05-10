@@ -26,5 +26,13 @@
     "association": [
       "NeuroBridge"
     ]
+  },
+  "test_community": {
+    "label": "NeuroBridge_Termtest",
+    "URL": "https://raw.githubusercontent.com/NIDM-Terms/terms/master/terms/NeuroBridge_Terms.jsonld",
+    "Description": "The NeuroBridge community focuses on increasing accessibility and reuse of Neuroscience datasets.",
+    "association": [
+      "NeuroBridge"
+    ]
   }
 }
